@@ -27,10 +27,10 @@ README.md: The file you are currently reading, providing an overview of the proj
 The following dependencies are required to run the code in this repository:
 
 Python 3.x <br>
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
+Pandas<br>
+NumPy<br>
+Scikit-learn<br>
+Matplotlib<br>
 Seaborn
 
 
