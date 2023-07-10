@@ -19,8 +19,8 @@ The results demonstrated that our models achieved high recall for stroke cases d
 Further analysis and exploration are recommended to delve deeper into genetic factors, long-term effects of lifestyle modifications, advanced predictive models, socioeconomic and cultural factors, novel biomarkers, imaging techniques, and personalized stroke prevention strategies.
 
 # Repository Structure
-data/: Contains the dataset used for the project (not included in the repository).
-notebooks/: Jupyter notebooks detailing the data exploration, preprocessing, modeling, and evaluation steps.
+data/: Contains the dataset used for the project (not included in the repository).<br>
+notebooks/: Jupyter notebooks detailing the data exploration, preprocessing, modeling, and evaluation steps.<br>
 README.md: The file you are currently reading, providing an overview of the project and repository.
 
 # Dependencies
