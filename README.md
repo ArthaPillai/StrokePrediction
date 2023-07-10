@@ -26,7 +26,7 @@ README.md: The file you are currently reading, providing an overview of the proj
 # Dependencies
 The following dependencies are required to run the code in this repository:
 
-Python 3.x
+Python 3.x <br>
 Pandas
 NumPy
 Scikit-learn
